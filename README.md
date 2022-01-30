@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelbakkali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelbakkali" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedelbakkali&show_icons=true&locale=en" alt="mohamedelbakkali" /></p>
+<p width="400" height="790"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedelbakkali&show_icons=true&locale=en" alt="mohamedelbakkali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbakkali&show_icons=true&locale=en&layout=compact" alt="mohamedelbakkali" /></p>
+<p width="400" height="790">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbakkali&show_icons=true&locale=en&layout=compact" alt="mohamedelbakkali" /></p>
 <br><p>
 <h3 align="left">🏆 Github Profile Trophys</h3>
 </p><br>
