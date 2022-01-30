@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelbakkali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelbakkali" /> </p>
 
 
-<p width="400" height="790"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedelbakkali&show_icons=true&locale=en" alt="mohamedelbakkali" /></p>
+<p><img width="350" height="690" align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedelbakkali&show_icons=true&locale=en" alt="mohamedelbakkali" /></p>
 
-<p width="400" height="790">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbakkali&show_icons=true&locale=en&layout=compact" alt="mohamedelbakkali" /></p>
+<p>&nbsp;<img  width="350" height="690" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbakkali&show_icons=true&locale=en&layout=compact" alt="mohamedelbakkali" /></p>
 <br><p>
 <h3 align="left">🏆 Github Profile Trophys</h3>
 </p><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelbakkali&theme=gruvbox" alt="mohamedelbakkali" /></a> </p>
+<p align="left" width="350" height="690"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelbakkali&theme=gruvbox" alt="mohamedelbakkali" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelbakkali&" alt="mohamedelbakkali" /></p>
 
