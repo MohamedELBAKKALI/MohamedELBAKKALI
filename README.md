@@ -2,11 +2,8 @@
 <h2 align="center">Hi 👋, I'm Mohamed</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelbakkali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelbakkali" /> </p>
-
-
-<p><img width="350" height="690" align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedelbakkali&show_icons=true&locale=en" alt="mohamedelbakkali" /></p>
-
-<p>&nbsp;<img  width="350" height="690" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbakkali&show_icons=true&locale=en&layout=compact" alt="mohamedelbakkali" /></p>
+<p width="350" height="690"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedelbakkali&show_icons=true&locale=en" alt="mohamedelbakkali" /></p>
+<p width="350" height="690">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbakkali&show_icons=true&locale=en&layout=compact" alt="mohamedelbakkali" /></p>
 <br><p>
 <h3 align="left">🏆 Github Profile Trophys</h3>
 </p><br>
