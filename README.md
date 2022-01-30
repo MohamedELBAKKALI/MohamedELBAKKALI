@@ -7,8 +7,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedelbakkali&show_icons=true&locale=en" alt="mohamedelbakkali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbakkali&show_icons=true&locale=en&layout=compact" alt="mohamedelbakkali" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelbakkali" alt="mohamedelbakkali" /></a> </p>
+<br><p>
+<h3 align="left">🏆 Github Profile Trophys</h3>
+</p><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelbakkali&theme=gruvbox" alt="mohamedelbakkali" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelbakkali&" alt="mohamedelbakkali" /></p>
 
@@ -32,5 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- </foreignObject>
-</svg>
